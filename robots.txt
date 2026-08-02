@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-2cji4q.goib138.online/sitemap.xml
